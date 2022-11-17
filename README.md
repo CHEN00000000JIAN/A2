@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+不会传html
 <html>
 	<head>
 		<meta charset="utf-8" />
